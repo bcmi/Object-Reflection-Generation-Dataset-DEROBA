@@ -1,11 +1,24 @@
 # Object-Reflection-Generation-Dataset-DEROBA
 
+## Dataset Overview
+**DEROBA** is a large-scale real-world dataset for reflection generation, containing carefully curated object-reflection pairs. This dataset is particularly valuable for tasks such as:
+- Image composition
+- Realistic object insertion
+- Reflection synthesis research
 
-## Dataset
-
-**DEROBA** is a large-scale real-world reflection generation dataset containing object-reflection pairs, which is useful for image composition or object insertion. In the figure below, from left to right in each group, we show the composite image, the foreground object mask, the foreground reflection mask, and the ground-truth target image.  
-
+In the figure below, from left to right in each group, we show the composite image, the foreground mask, the reflection mask, and the ground-truth image.  
 
 <img src='dataset_example.jpg' align="center" width=90%>
 
-You can download the full DEROBA Dataset from [[Baidu_Cloud]](https://pan.baidu.com/s/1PPrXOpbH8PixAlKk2XbUTw?pwd=bcmi) (access code: bcmi).
+### Sample Structure:
+1. **Composite image**  
+2. **Foreground mask**  
+3. **Reflection mask**  
+4. **Ground-truth image**
+5. **Original image**
+6. **Inpainted image**
+
+## Download
+The full-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/1k8ZWeWk3RjvJQ4kUFErcHw?pwd=bcmi) (access code: bcmi).
+
+The 512-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/15fAwuRBQ92VGsQVqls9L8Q?pwd=bcmi) (access code: bcmi).
