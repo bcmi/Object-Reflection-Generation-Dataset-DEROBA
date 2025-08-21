@@ -4,7 +4,7 @@
 **DEROBA** is a large-scale real-world dataset for reflection generation, containing carefully curated object-reflection pairs. This dataset is particularly valuable for tasks such as:
 - Image composition
 - Realistic object insertion
-- Reflection synthesis research
+- Reflection generation
 
 In the figure below, from left to right in each group, we show the composite image, the foreground mask, the reflection mask, and the ground-truth image.  
 
