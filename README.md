@@ -19,6 +19,6 @@ In the figure below, from left to right in each group, we show the composite ima
 6. **Inpainted image**
 
 ## Download
-The full-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/1k8ZWeWk3RjvJQ4kUFErcHw?pwd=bcmi) (access code: bcmi).
+The full-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/1yM_Xza9luTQlyYdlCfhlZw?pwd=bcmi) (access code: bcmi).
 
-The 512-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/15fAwuRBQ92VGsQVqls9L8Q?pwd=bcmi) (access code: bcmi).
+The 512-resolution version is available on: [[Baidu_Cloud]](https://pan.baidu.com/s/13VxuVwQWFqoQa4vGLwjqmA?pwd=bcmi) (access code: bcmi).
