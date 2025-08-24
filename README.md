@@ -44,7 +44,22 @@ We provide two versions: the full-resolution version and the 512-resolution vers
   └── test.txt
   ```
 
+
+
 ## Other Resources
 
-+ [Awesome-Object-Shadow-Generation](https://github.com/bcmi/Awesome-Object-Shadow-Generation)
++ [Awesome-Object-Reflection-Generation](https://github.com/bcmi/Awesome-Object-Reflection-Generation)
 + [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion)
+
+## Bibtex
+
+If you use our DEROBA dataset, please cite the following BibTeX  [[arxiv](https://arxiv.org/pdf/2106.14490.pdf)]:
+
+```
+@article{niu2021making,
+  title={Making images real again: A comprehensive survey on deep image composition},
+  author={Niu, Li and Cong, Wenyan and Liu, Liu and Hong, Yan and Zhang, Bo and Liang, Jing and Zhang, Liqing},
+  journal={arXiv preprint arXiv:2106.14490},
+  year={2021}
+}
+```
