@@ -5,6 +5,10 @@
 
 <img src='dataset_example.jpg' align="center" width=90%>
 
+## Online Demo
+
+Try this [online demo](http://libcom.ustcnewly.com/) for image composition and have fun!
+
 ## Dataset Construction
 
 We collect **original_image** with object reflections from [pixabay](https://pixabay.com/) and annotate the **foreground_mask**, **reflection_mask**. Then, for each object-reflection pair, we employ image inpainting model to erase the object and reflection, resulting in **inpainted_image**. Because inpainting causes color disturbation, we apply image inpainting model with empty mask to get the **ground-truth_image**. We crop the foreground from **ground-truth_image** and paste it on the **inpainted_image** to obtain **composite_image**. 
