@@ -50,7 +50,22 @@ We provide two versions: the full-resolution version and the 512-resolution vers
   └── test.txt
   ```
 
+## Installation
+- Clone this repo:
+    git clone https://github.com/bcmi/Object-Reflection-Generation-Dataset-DEROBA.git
+- Download the DEROBA dataset to `./data/`.
+- Download the checkpoints from [[Hugging Face]](https://huggingface.co/2zz-n/RGDiffusion) to `./models/`.
 
+## Environment
+    conda create -n RGDiffusion python=3.8
+    conda activate RGDiffusion
+    pip install -r requirements.txt
+
+## Training
+    python train.py
+
+## Inference
+    python test.py
 
 ## Other Resources
 
