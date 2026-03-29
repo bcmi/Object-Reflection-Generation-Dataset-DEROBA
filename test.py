@@ -4,10 +4,8 @@ import torch
 import argparse
 import numpy as np
 from PIL import Image
-
 import torch.nn.functional as F
 from cldm.model import create_model, load_state_dict
-
 import random
 random.seed(42)
 
