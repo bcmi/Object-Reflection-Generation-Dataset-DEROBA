@@ -1,5 +1,14 @@
 # Object-Reflection-Generation-Dataset-DEROBA
 
+
+This is the official repository for the following paper:
+
+> **Reflection Generation for Composite Image Using Diffusion Model**  [[arXiv]](https://arxiv.org/pdf/2604.02168)<br>
+>
+> Haonan Zhao, Qingyang Liu, Jiaxuan Chen, Li Niu<br>
+> Accepted by **ICME 2026**.
+
+
 ## Dataset Overview
 **DEROBA** is a large-scale real-world dataset for reflection generation, i.e., generating plausible reflection for the inserted foreground object, which is particularly valuable for image composition (object insertion). DEROBA contains 16,791 different images and 21,016 object-reflection pairs. The figure below shows several examples. From left to right in each example, we show the composite image, the foreground mask, the reflection mask, and the ground-truth image.  
 
@@ -74,13 +83,13 @@ We provide two versions: the full-resolution version and the 512-resolution vers
 
 ## Bibtex
 
-If you use our DEROBA dataset, please cite the following BibTeX  [[arxiv](https://arxiv.org/pdf/2106.14490.pdf)]:
+If you use our DEROBA dataset, please cite the following BibTeX  [[arxiv](https://arxiv.org/pdf/2604.02168)]:
 
 ```
-@article{niu2021making,
-  title={Making images real again: A comprehensive survey on deep image composition},
-  author={Niu, Li and Cong, Wenyan and Liu, Liu and Hong, Yan and Zhang, Bo and Liang, Jing and Zhang, Liqing},
-  journal={arXiv preprint arXiv:2106.14490},
-  year={2021}
+@article{deroba2026,
+  title={Reflection Generation for Composite Image Using Diffusion Model},
+  author={Zhao, Haonan and Liu, Qingyang and Chen, Jiaxuan and Niu, Li },
+  journal={arXiv preprint arXiv:2604.02168},
+  year={2026}
 }
 ```
